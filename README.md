@@ -22,3 +22,6 @@ Tarea 3 - 7 SEP 2020
 Clase 4 (Final)
 	Tarea 3.1 MISSING 
 	Tarea 3.2 MISSING 
+
+Tarea 4 - SIN FECHA
+	Tarea 4 MISSING Jesus
