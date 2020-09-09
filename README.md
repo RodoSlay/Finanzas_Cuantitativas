@@ -20,14 +20,14 @@ Clase 3 (Final)
 
 Tarea 3 - 7 SEP 2020
 Clase 4 (Final)
-	Tarea 3.1 MISSING Jesus
-	Tarea 3.2 MISSING Jesus
+	Tarea 3.1 DONE Jesus Y Ariadna
+	Tarea 3.2 DONE Jesus Y Ariadna
 
 Tarea 4 - 16 SEP 2020
 Clase 5 (Final)
-	Tarea 4.1 MISSING Rodo
-	Tarea 4.2 MISSING Rodo
-	Tarea 4.3 MISSING Rodo
+	Tarea 4.1 DONE Rodo
+	Tarea 4.2 DONE Rodo
+	Tarea 4.3 DONE Rodo
 	
 Tarea 5 - 16 SEP 2020
-	Tarea 5 MISSING
+	Tarea 5 MISSING Romina
