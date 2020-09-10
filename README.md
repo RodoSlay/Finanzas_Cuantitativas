@@ -20,8 +20,8 @@ Clase 3 (Final)
 
 Tarea 3 - 7 SEP 2020
 Clase 4 (Final)
-	Tarea 3.1 DONE Jesus Y Ariadna
-	Tarea 3.2 DONE Jesus Y Ariadna
+	Tarea 3.1 NOT GOOD Jesus Y Ariadna
+	Tarea 3.2 NOT GOOD Jesus Y Ariadna
 
 Tarea 4 - 16 SEP 2020
 Clase 5 (Final)
